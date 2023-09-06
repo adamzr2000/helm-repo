@@ -2,7 +2,15 @@ apiVersion: v1
 entries:
   my-rtmp-server-chart:
   - apiVersion: v2
-    created: "2023-09-06T16:16:00.884248378Z"
+    created: "2023-09-06T16:27:13.616716085Z"
+    description: A Helm chart for RTMP server deployment v3
+    digest: 5aacb9cefce02787b387990782193965933705778b164e5d4d465fa33c7c02d9
+    name: my-rtmp-server-chart
+    urls:
+    - Packages/my-rtmp-server-chart-0.3.0.tgz
+    version: 0.3.0
+  - apiVersion: v2
+    created: "2023-09-06T16:27:13.616619114Z"
     description: A Helm chart for RTMP server deployment v2
     digest: ab60ba6131583e7b4c35aad9c89f5b753f4821ba9381ba184cbb484b999999ac
     name: my-rtmp-server-chart
@@ -10,11 +18,11 @@ entries:
     - Packages/my-rtmp-server-chart-0.2.0.tgz
     version: 0.2.0
   - apiVersion: v2
-    created: "2023-09-06T16:16:00.884121869Z"
+    created: "2023-09-06T16:27:13.616488358Z"
     description: A Helm chart for RTMP server deployment
     digest: 8cd0e298dec2995a6227398256bdc6280553861d0f73861eacf00a6900277258
     name: my-rtmp-server-chart
     urls:
     - Packages/my-rtmp-server-chart-0.1.0.tgz
     version: 0.1.0
-generated: "2023-09-06T16:16:00.883911674Z"
+generated: "2023-09-06T16:27:13.616274507Z"
